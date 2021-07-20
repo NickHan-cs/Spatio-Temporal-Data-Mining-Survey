@@ -22,6 +22,10 @@
 
 > Multiple hypothesis theory
 
+**Feature-based Map Matching for Low-Sampling-Rate GPS Trajectories**. Yifang Yin, Rajiv Ratn Shah, Guanfeng Wang, Roger Zimmermann. ACM TSAS 2018. [paper](https://dl.acm.org/doi/10.1145/3223049)
+
+> Online mode
+
 --2017--
 
 **IF-Matching: Towards Accurate Map-Matching with Information Fusion**. Gang Hu(UESTC), Jie Shao, Fenglin Liu, Yuan Wang, Heng Tao Shen. IEEE TKDE 2017. [paper](https://ieeexplore.ieee.org/document/7590096)
@@ -33,7 +37,7 @@
 **A critical review of real-time map-matching algorithms: Current issues and future directions**. Mahdi Hashemi(PITT), Hassan A. Karimi.  Computers, Environment and Urban
 Systems 2014. [paper](https://www.sciencedirect.com/science/article/pii/S0198971514000908)
 
-> Survey
+> Survey, Online mode,
 
 --2013--
 
@@ -48,6 +52,12 @@ Systems 2014. [paper](https://www.sciencedirect.com/science/article/pii/S0198971
 **High accuracy tightly-coupled integrity monitoring algorithm for map-matching**. Liang Li(HEU), Mohammed Quddus, Lin Zhao. Transportation Research Part C: Emerging Technologies 2013. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0968090X13001629)
 
 > Information Fusion
+
+--2012--
+
+**Online map-matching based on Hidden Markov model for real-time traffic sensing applications**. C.Y. Goh(NTU), J. Dauwels, N. Mitrovic, M. T. Asif, A. Oran, P. Jaillet. IEEE CITS 2012. [paper](https://ieeexplore.ieee.org/document/6338627)
+
+> Online mode
 
 --2007--
 
