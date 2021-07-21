@@ -32,6 +32,10 @@
 
 > Information Fusion
 
+**A Trajectory Segmentation Map-Matching Approach for Large-Scale, High-Resolution GPS Data**. Lei Zhu(UNCC), Jacob Holden, Jeffrey Gonder. Transportation Research Record 2017. [paper](https://www.researchgate.net/publication/314207447_A_Trajectory_Segmentation_Map-Matching_Approach_for_Large-Scale_High-Resolution_GPS_Data)
+
+> Similarity Model, Distance-based, Longest Common Subsequence
+
 --2014--
 
 **A critical review of real-time map-matching algorithms: Current issues and future directions**. Mahdi Hashemi(PITT), Hassan A. Karimi.  Computers, Environment and Urban
@@ -53,11 +57,17 @@ Systems 2014. [paper](https://www.sciencedirect.com/science/article/pii/S0198971
 
 > Information Fusion
 
+**Map Matching by Fr´echet Distance and Global Weight Optimization**. Hong Wei, Yin Wang, George Forman, Yanmin Zhu. Technical Paper, Department of Computer Science and Engineering 2013. [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.716.7193&rep=rep1&type=pdf)
+
+> Similarity Model, Distance-based, Fr´echet distance
+
 --2012--
 
 **Online map-matching based on Hidden Markov model for real-time traffic sensing applications**. C.Y. Goh(NTU), J. Dauwels, N. Mitrovic, M. T. Asif, A. Oran, P. Jaillet. IEEE CITS 2012. [paper](https://ieeexplore.ieee.org/document/6338627)
 
-> Online mode
+> Online Mode
+
+**Reducing Uncertainty of Low-Sampling-Rate Trajectories**. Kai Zheng(UQ), Yu Zheng, Xing Xie, Xiaofang Zhou. IEEE ICDE 2012. [paper](https://ieeexplore.ieee.org/document/6228163)
 
 --2007--
 
