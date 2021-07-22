@@ -30,18 +30,28 @@
 
 **IF-Matching: Towards Accurate Map-Matching with Information Fusion**. Gang Hu(UESTC), Jie Shao, Fenglin Liu, Yuan Wang, Heng Tao Shen. IEEE TKDE 2017. [paper](https://ieeexplore.ieee.org/document/7590096)
 
-> Information Fusion
+> Information Fusion, State-Transition Model, Weight graph technique
 
 **A Trajectory Segmentation Map-Matching Approach for Large-Scale, High-Resolution GPS Data**. Lei Zhu(UNCC), Jacob Holden, Jeffrey Gonder. Transportation Research Record 2017. [paper](https://www.researchgate.net/publication/314207447_A_Trajectory_Segmentation_Map-Matching_Approach_for_Large-Scale_High-Resolution_GPS_Data)
 
 > Similarity Model, Distance-based, Longest Common Subsequence
+
+--2016--
+
+**An improved particle filter and its application to an INS/GPS integrated navigation system in a serious noisy scenario**. Xuemei Wang(SWJTU), Wenbo Ni.  Measurement Science and Technology 2016. [paper](https://iopscience.iop.org/article/10.1088/0957-0233/27/9/095005)
+
+> Candidate-Evolving Model, Particle filter
 
 --2014--
 
 **A critical review of real-time map-matching algorithms: Current issues and future directions**. Mahdi Hashemi(PITT), Hassan A. Karimi.  Computers, Environment and Urban
 Systems 2014. [paper](https://www.sciencedirect.com/science/article/pii/S0198971514000908)
 
-> Survey, Online mode,
+> Survey, Online mode
+
+**The path inference filter: model-based low-latency map matching of probe vehicle data**. Timothy Hunter(UCB), Pieter Abbeel, Alexandre Bayen. IEEE TITS 2014. [paper](https://arxiv.org/abs/1109.1966)
+
+> State-Transition Model, Conditional random field
 
 --2013--
 
@@ -65,9 +75,26 @@ Systems 2014. [paper](https://www.sciencedirect.com/science/article/pii/S0198971
 
 **Online map-matching based on Hidden Markov model for real-time traffic sensing applications**. C.Y. Goh(NTU), J. Dauwels, N. Mitrovic, M. T. Asif, A. Oran, P. Jaillet. IEEE CITS 2012. [paper](https://ieeexplore.ieee.org/document/6338627)
 
-> Online Mode
+> Online Mode, State-Transition Model, Hidden Markov Model
 
 **Reducing Uncertainty of Low-Sampling-Rate Trajectories**. Kai Zheng(UQ), Yu Zheng, Xing Xie, Xiaofang Zhou. IEEE ICDE 2012. [paper](https://ieeexplore.ieee.org/document/6228163)
+
+> Similarity Model, Pattern-based
+
+--2009--
+
+**Hidden Markov Map Matching Through Noise and Sparseness**. Paul Newson(Microsoft), John Krumm. ACM SIGSPATIAL 2009. [paper](https://dl.acm.org/doi/10.1145/1653771.1653818)
+
+> State-Transition Model, Hidden Markov Model
+
+**Map-Matching for Low-Sampling-Rate GPS Trajectories**. Yin Lou(Microsoft), Chengyang Zhang, Xing Xie, Yu Zheng, Wei Wang, Yan Huang. ACM SIGSPATIAL 2009. [paper](https://www.microsoft.com/en-us/research/publication/map-matching-for-low-sampling-rate-gps-trajectories/)
+
+> State-Transition Model, Weight graph technique
+
+**Multi-hypothesis Map-Matching using Particle Filtering**. Philippe Bonnifait(CNRS), Jean Laneurit, Clément Fouque, Gérald Dherbomez. World Congress for ITS Systems and
+Services 2009. [paper](https://hal.archives-ouvertes.fr/hal-00445673/document)
+
+> Candidate-Evolving Model, Particle filter
 
 --2007--
 
