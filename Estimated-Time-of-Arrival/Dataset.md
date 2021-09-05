@@ -35,3 +35,15 @@
 **Link**: https://github.com/YibinShen/TTPNet
 
 **Description**: This dataset contains 3,384,847 trajectories of 10,039 taxis from Oct. 1 to Oct. 31 in 2013. It only provided 1000 trajectories per day (Oct. 1, 2013 ~ Oct. 31, 2013).
+
+
+
+### NYC-Yellow-Cab
+
+**Place**: New York City, USA
+
+**Duration**: 2016
+
+**Link**: https://www.kaggle.com/c/nyc-taxi-trip-duration/data
+
+**Description**: The dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine Commission (TLC). The data was sampled and cleaned for the purposes of the Kaggle playground competition. 

@@ -56,7 +56,7 @@
 
 **A prediction model of bus arrival time at stops with multi-routes**. Tingting Yin(SEU), Gang Zhong, Jian Zhang, Shanglu He, Bin Ran. Transportation Research Procedia 2017. [paper](https://www.sciencedirect.com/science/article/pii/S2352146517306889)
 
-**Prediction of Bus Travel Time Using Random Forests Based on Near Neighbors**. Bin Yu, Huaizhu Wang(BUAA), Wenxuan Shan, Baozhen Yao. Computer-Aided Civil and Infrastructure Engineering 2017. [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12315)
+**Prediction of Bus Travel Time Using Random Forests Based on Near Neighbors**. Bin Yu(BUAA), Huaizhu Wang, Wenxuan Shan, Baozhen Yao. Computer-Aided Civil and Infrastructure Engineering 2017. [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12315)
 
 **Bus arrival time prediction using mixed multi-route arrival time data at previous stop**. Xuedong Hua(SEU), Wei Wang, Yinhai Wang, Min Ren. Transport 2017. [paper](https://journals.vgtu.lt/index.php/Transport/article/view/162)
 
@@ -67,6 +67,10 @@
 **Performance Comparison of Data Driven and Less Data Demanding Techniques for Bus Travel Time on Prediction**. A Kumar(Indian Institute of Technology Madras), V Kumar, L Vanajakshi, Shankar Subramanian. European Transport 2017. [paper](https://publications.iitm.ac.in/researcher/lelitha-devi-vanajakshi)
 
 --2016--
+
+**Traffic Speed Prediction and Congestion Source Exploration: A Deep Learning Method**. Jingyuan Wang(BUAA), Qian Gu, Junjie Wu, Guannan Liu, Zhang Xiong. IEEE ICDM 2016. [paper](https://ieeexplore.ieee.org/document/7837874)
+
+> Individual TTE method
 
 **Real time prediction of bus arrival time: A review**. Rubina Choudhary(Lovely Professional University), Aditya Khamparia, Amandeep Kaur Gahier. IEEE NGCT 2016. [paper](https://ieeexplore.ieee.org/document/7877384)
 
@@ -82,7 +86,24 @@
 
 **Travel Time Estimation of a Path using Sparse Trajectories**. Yilun Wang(MSRA), Yu Zheng, Yexiang Xue. KDD 2014. [paper](https://dl.acm.org/doi/10.1145/2623330.2623656)
 
+> Individual TTE method
+
 **Historical Data based Real Time Prediction of Vehicle Arrival Time**. Santa Maiti(Tata Consultancy Services), Arpan Pal, Arindam Pal, Tanushyam Chattopadhyay, Arijit Mukherjee. ITSC 2014. [paper](https://ieeexplore.ieee.org/document/6957960)
 
 > 历史均值法
 
+--2013--
+
+**Travel Cost Inference from Sparse, Spatio-Temporally Correlated Time Series Using Markov Models**. Bin Yang(Aarhus University), Chenjuan Guo, Christian S. Jensen. ACM VLDB 2013. [paper](https://dl.acm.org/doi/10.14778/2536360.2536375)
+
+> Individual TTE method
+
+**Travel time estimation for urban road networks using low frequency probe vehicle data**. Erik Jenelius(KTH Royal Institute of Technology), Haris N. Koutsopoulos. Transportation Research Part B: Methodological 2013. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0191261513000489)
+
+> Collective TTE method
+
+--2012--
+
+**Utilizing Real-World Transportation Data for Accurate Traffic Prediction**. Bei Pan(UCLA), Ugur Demiryurek, Cyrus Shahabi. IEEE ICDM 2012. [paper](https://ieeexplore.ieee.org/document/6413867)
+
+> Individual TTE method
