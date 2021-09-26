@@ -33,6 +33,10 @@ Yuxuan Liang, Weifeng Wang. KDD 2019. [paper](https://dl.acm.org/doi/10.1145/329
 
 > GNN, GCN
 
+**Detecting Taxi Speeding from Sparse and Low-Sampled Trajectory Data**. Xibo Zhou(HKUST), Qiong Luo, Dian Zhang, Lionel M. Ni. APWeb/WAIM 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-319-96893-3_16)
+
+> matrix/tensor decomposition to estimate the individual vehicle speed or travel time on different roads
+
 --2017--
 
 **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction**. Junbo Zhang(MSRA), Yu Zheng, Dekang Qi. AAAI 2017. [paper](https://arxiv.org/abs/1610.00081)
