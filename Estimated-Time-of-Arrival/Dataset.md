@@ -47,3 +47,20 @@
 **Link**: https://www.kaggle.com/c/nyc-taxi-trip-duration/data
 
 **Description**: The dataset is based on the 2016 NYC Yellow Cab trip record data made available in Big Query on Google Cloud Platform. The data was originally published by the NYC Taxi and Limousine Commission (TLC). The data was sampled and cleaned for the purposes of the Kaggle playground competition. 
+
+
+
+# Hangzhou-Taxi
+
+**Place**: Hangzhou, China
+
+**Duration**:
+
+**Link**: http://tecdat.cn/%e5%87%ba%e7%a7%9f%e8%bd%a6%e8%a1%8c%e9%a9%b6%e8%bd%a8%e8%bf%b9%e6%95%b0%e6%8d%ae/
+
+**Description**:
+
+
+
+# T-Drive
+
