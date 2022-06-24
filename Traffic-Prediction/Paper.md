@@ -2,6 +2,25 @@
 
 [TOC]
 
+## 2022
+
+**Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting**. Hyunwook Lee, Seungmin Jin, Hyeshin Chu, Hongkyu Lim, Sungahn Ko. ICLR 2022. [paper](https://openreview.net/forum?id=wwDg3bbYBIq) [code](https://github.com/HyunWookL/PM-MemNet)
+
+**STDEN: Towards Physics-Guided Neural Networks for Traffic Flow Prediction**. Jiahao Ji(BUAA), Jingyuan Wang, Zhe Jiang, Jiawei Jiang, Hu Zhang. AAAI 2022. [paper](https://aaai-2022.virtualchair.net/poster_aaai211) [code](https://github.com/Echo-Ji/STDEN)
+
+**CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting**. Hui He(Beijing Institute of Technology), Qi Zhang, Simeng Bai, Kun Yi, Zhendong Niu. AAAI 2022. [paper](https://aaai-2022.virtualchair.net/poster_aaai7403)
+
+**Graph Neural Controlled Differential Equations for Traffic Forecasting**. Jeongwhan Choi(Yonsei University), Hwangyong Choi, Jeehyun Hwang, Noseong Park. AAAI 2022. [paper](https://aaai-2022.virtualchair.net/poster_aaai6502) [code](https://github.com/jeongwhanchoi/STG-NCDE)
+
+**Disentangled Spatiotemporal Graph Generative Model**. Yuanqi Du(George Mason University), Xiaojie Guo, Hengning Cao, Yanfang Ye, Zhao Liang. AAAI 2022. [paper](https://aaai-2022.virtualchair.net/poster_aaai2430)
+
+**Graph Sequence Neural Network with an Attention Mechanism for Traffic Speed Prediction**.  
+Zhilong Lu(BUAA), Weifeng Lv, Zhipu Xie, Bowen Du, Guixi Xiong, Leilei Sun, Haiquan Wang. ACMTIST 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3470889)
+
+**ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction**. Liang Zhao(Chongqing University), Min Gao, Zongwei Wang. WSDM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) [code](https://github.com/k51/STGSP)
+
+**Adaptive Spatio-temporal Graph Neural Network for traffic forecasting**. Xuxiang Ta(BUAA), Zihan Liu, Xiao Hu, Le Yu, Leilei Sun, Bowen Du. KBS 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0950705122000508)
+
 ## 2021
 
 **Discrete Graph Structure Learning for Forecasting Multiple Time Series**. Chao Shang(University of Connecticut), Jie Chen, Jinbo Bi. ICLR 2021. [paper](https://arxiv.org/abs/2101.06861) [code](https://github.com/chaoshangcs/GTS)
@@ -104,6 +123,10 @@
 
 > Transfer Learning
 
+**MT-STNets: Multi-Task Spatial-Temporal Networks for Multi-Scale Traffic Prediction**. Senzhang Wang(Central South University), Meiyue Zhang, Hao Miao, Philip S. Yu. SDM 2021. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.57)
+
+> Causal
+
 **STG-Meta: Spatial-Temporal Graph Meta-Learning for Traffic Forecasting**. Jiadong Li(THU), Wang Pan, Qipu Deng, Zhi Wang, Wenwu Zhu. IEEE IJCNN 2021. [paper](https://ieeexplore.ieee.org/document/9534420)
 
 **Spatial-temporal attention wavenet: A deep learning framework for traffic prediction considering spatial-temporal dependencies**. Chenyu Tian, Wai Kin (Victor) Chan. IET ITS 2021. [paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/itr2.12044) [code](https://github.com/CYBruce/STAWnet)
@@ -111,6 +134,10 @@
 **Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network**. Jintao Ke, Xiaoran Qin, Hai Yang, Zhengfei Zheng, Zheng Zhu, Jieping Ye. Transportation Research Part C: Emerging Technologies 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307580) [code](https://github.com/kejintao/ST-ED-RMGC)
 
 **Dynamic Graph Convolutional Recurrent Network for Traffic Prediction: Benchmark and Solution**. Fuxian Li, Jie Feng, Huan Yan, Guangyin Jin, Depeng Jin, Yong Li. arXiv 2021. [paper](https://arxiv.org/abs/2104.14917) [code](https://github.com/tsinghua-fib-lab/Traffic-Benchmark)
+
+**Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting**. Chuanpan Zheng(Xiamen University), Xiaoliang Fan, Shirui Pan, Zonghan Wu, Cheng Wang, Philip S. Yu. arXiv 2021. [paper](https://arxiv.org/abs/2111.13684)
+
+**Physics-Informed Deep Learning for Traffic State Estimation**. Rongye Shi(Columbia), Zhaobin Mo, Kuang Huang, Xuan Di, Qiang Du. arXiv 2021. [paper](https://arxiv.org/abs/2101.06580)
 
 ## 2020
 
@@ -175,6 +202,8 @@
 **Potential Passenger Flow Prediction: A Novel Study for Urban Transportation Development**. Yongshun Gong(University of Technology Sydney), Zhibin Li, Jian Zhang, Wei Liu, Jinfeng Yi. AAAI 2020. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5819)
 
 **Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting**. Weiqi Chen(ZJU), Ling Chen, Yu Xie, Wei Cao, Yusong Gao, Xiaojie Feng. AAAI 2020. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5758) [code](https://github.com/wumingyao/MAR-BGCN_GPU_pytorch)
+
+> Causal
 
 **Learning Geo-Contextual Embeddings for Commuting Flow Prediction**. Zhicheng Liu(Southeast University), Fabio Miranda, Weiting Xiong, Junyan Yang, Qiao Wang, Cláudio T. Silva. AAAI 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5425) [code](https://github.com/jackmiemie/GMEL)
 
