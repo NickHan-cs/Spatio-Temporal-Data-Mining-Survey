@@ -2,6 +2,10 @@
 
 --2021--
 
+**SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps**. Xiaomin Fang(Baidu Inc.), Jizhou Huang, Fan Wang, Lihang Liu, Yibo Sun, Haifeng Wang. KDD 2021. [paper](https://dl.acm.org/doi/10.1145/3447548.3467060)
+
+**GraphTTE: Travel Time Estimation Based on Attention-Spatiotemporal Graphs**. Qiang Wang(BUPT), Chen Xu, Wenqi Zhang, Jingjing Li. IEEE Signal Processing Letters 202. [paper](https://ieeexplore.ieee.org/document/9314202) [code](https://github.com/MoWangQiang/GraphTTE)
+
 **HyperETA: An Estimated Time of Arrival Method based on Hypercube Clustering**. Oscar LiJen Hsu. 2021. [paper](https://www.techrxiv.org/articles/preprint/HyperETA_An_Estimated_Time_of_Arrival_Method_based_on_Hypercube_Clustering/14138618) [code](https://github.com/oscarhsu/HyperETA)
 
 --2020--
