@@ -20,7 +20,7 @@
 
 **MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting**. Dachuan Liu(UESTC), Jin Wang, Shuo Shang, Peng Han. KDD 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539397) [code](https://github.com/Shirley-YFY/MSDR)
 
-**Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction**. Liangzhe Han(BUAA), Xiaojian Ma, Leilei Sun, Bowen Du, Yanjie Fu, Weifeng Lv, Hui Xiong. KDD 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539273) 
+**Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction**. Liangzhe Han(BUAA), Xiaojian Ma, Leilei Sun, Bowen Du, Yanjie Fu, Weifeng Lv, Hui Xiong. KDD 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539273)
 
 **Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting**. Junchen Ye(BUAA), Zihan Liu, Bowen Du, Leilei Sun, Weimiao Li, Yanjie Fu, Hui Xiong. KDD 2022. [paper](https://arxiv.org/abs/2206.13816) [code](https://github.com/LiuZH-19/ESG)
 
@@ -59,6 +59,8 @@
 **Domain Adversarial Spatial-Temporal Network: A Transferable Framework for Short-term Traffic Forecasting across Cities**. Yihong Tang(HKU), Ao Qu, Andy H.F. Chow, William H.K. Lam, S.C. Wong, Wei Ma. CIKM 2022. [paper](https://arxiv.org/abs/2202.03630) [code](https://github.com/YihongT/DASTNet)
 
 > Transfer Learning
+
+**Adaptive Graph Spatial-Temporal Transformer Network for Traffic Forecasting**. Aosong Feng(Yale), Leandros Tassiulas. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557540)
 
 **ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction**. Liang Zhao(Chongqing University), Min Gao, Zongwei Wang. WSDM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) [code](https://github.com/k51/STGSP)
 

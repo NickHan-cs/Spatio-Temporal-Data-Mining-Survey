@@ -48,6 +48,8 @@
 
 **Multi-Type Urban Crime Prediction**. Xiangyu Zhao(CityU), Wenqi Fan, Hui Liu, Jiliang Tang. AAAI 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20360)
 
+> Crime Prediction
+
 **Machine-Learned Prediction Equilibrium for Dynamic Traffic Assignment**. Lukas Graf(University of Augsburg), Tobias Harks, Kostas Kollias, Michael Markl. AAAI 2022. [paper](https://aaai-2022.virtualchair.net/poster_aaai919)
 
 > Traffic Assignment
@@ -82,10 +84,6 @@
 
 ## 2021
 
-**Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling**. Chuizheng Meng(USC), Sirisha Rambhatla, Yan Liu. KDD 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467371) [code](https://github.com/mengcz13/KDD2021_CNFGNN)
-
-> Spatio-Temporal Data Modeling
-
 **Micro-climate Prediction - Multi Scale Encoder-decoder based Deep Learning Framework**. Peeyush Kumar(Microsoft Research), Ranveer Chandra, Chetan Bansal, Shivkumar Kalyanaraman, Tanuja Ganu, Michael Grant. KDD 2021. [paper](https://dl.acm.org/doi/10.1145/3447548.3467173)
 
 > Meteorological Forecasting
@@ -116,15 +114,7 @@
 
 > Traffic Signal Control
 
-**Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics**. Yile Chen(NTU), Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison. CIKM 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482293)
-
-> Road Network Representation
-
 ## 2020
-
-**Learning Effective Road Network Representation with Hierarchical Graph Neural Networks**. Ning Wu(BUAA), Xin Wayne Zhao, Jingyuan Wang, Dayan Pan. KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403043)
-
-> Road Network Representation
 
 **GeneraLight: Improving Environment Generalization of Traffic Signal Control via Meta Reinforcement Learning**. Huichu Zhang(SJTU), Chang Liu, Weinan Zhang, Guanjie Zheng, Yong Yu. CIKM 2020. [paper](https://dl.acm.org/doi/10.1145/3340531.3411859) [code](https://github.com/only-changer/GeneraLight)
 

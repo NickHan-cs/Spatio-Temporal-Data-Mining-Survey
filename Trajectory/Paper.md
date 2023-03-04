@@ -2,6 +2,36 @@
 
 [TOC]
 
+
+
+## Trajectory Representation Learning
+
+### 2023
+
+**Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**. Jiawei Jiang(BUAA), Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang. ICDE 2023. [paper](https://arxiv.org/abs/2211.09510) [code](https://github.com/aptx1231/start)
+
+### 2022
+
+**Weakly-supervised Temporal Path Representation Learning with Contrastive Curriculum Learning**. Sean Bin Yang, Chenjuan Guo, Jilin Hu, Bin Yang, Jian Tang, Christian S. Jensen. ICDE 2022. [paper](https://arxiv.org/abs/2203.16110) [code](https://github.com/Sean-Bin-Yang/TPR)
+
+**Jointly Contrastive Representation Learning on Road Network and Trajectory**. Zhenyu Mao(SenseTime Research), Ziyue Li, Dedong Li, Lei Bai, Rui Zhao. CIKM 2022. [paper](https://arxiv.org/abs/2209.06389) [code](https://github.com/mzy94/JCLRNT)
+
+**Modeling Spatial Trajectories With Attribute Representation Learning**. Meng Chen(Shandong University), Yan Zhao, Yang Liu, Xiaohui Yu, Kai Zheng. IEEE TKDE 2022. [paper](https://ieeexplore.ieee.org/document/9112685)
+
+**Contrastive Pre-training of Spatial-Temporal Trajectory Embeddings**. Yan Lin(BJTU), Huaiyu Wan, Shengnan Guo, Youfang Lin. arXiv 2022. [paper](https://arxiv.org/abs/2207.14539)
+
+### 2021
+
+**Modeling Trajectories with Neural Ordinary Differential Equations**. Yuxuan Liang(NUS), Kun Ouyang, Hanshu Yan, Yiwei Wang, Zekun Tong, Roger Zimmermann. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/207)
+
+**Unsupervised Path Representation Learning with Curriculum Negative Sampling**. Sean Bin Yang(Aalborg University), Chenjuan Guo, Jilin Hu, Jian Tang, Bin Yang. IJCAI 2021. [paper](https://arxiv.org/abs/2106.09373) [code](https://github.com/Sean-Bin-Yang/Path-InfoMax)
+
+**Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics**. Yile Chen(NTU), Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison. CIKM 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482293)
+
+### 2020
+
+**Trembr: Exploring Road Networks for Trajectory Representation Learning**. Tao-Yang Fu(The Pennsylvania State University), Wang-Chien Lee. TIST 2020. [paper](https://dl.acm.org/doi/10.1145/3361741)
+
 ## Trajectory Similarity
 
 ### 2022
@@ -10,9 +40,19 @@
 
 **TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation**. Di Yao(CAS), Haonan Hu, Lun Du, Gao Cong, Shi Han, Jingping Bi. KDD 2022. [paper](http://yaodi.info:5002/papers/trajgat22.pdf) [code](https://github.com/HuHaonan-CHN/TrajGAT)
 
-**Spatio-Temporal Trajectory Similarity Learning in Road Networks**. Ziquan Fang(ZJU), Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, Christian S Jensen. KDD 2022. [paper](https://arxiv.org/abs/2112.09339) [code](https://github.com/zealscott/ST2Vec)
+**Spatio-Temporal Trajectory Similarity Learning in Road Networks**. Ziquan Fang(ZJU), Yuntao Du, Xinjun Zhu, Danlei Hu, Lu Chen, Yunjun Gao, Christian S Jensen. KDD 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539375) [code](https://github.com/zealscott/ST2Vec)
 
 **TMN: Trajectory Matching Networks for Learning Similarity Computation**. Peilun Yang(University of Technology Sydney), Hanchen Wang, Defu Lian, Ying Zhang, Lu Qin, Wenjie Zhang. ICDE 2022. [paper](https://ieeexplore.ieee.org/document/9835456)
+
+**TraSS: Efficient Trajectory Similarity Search Based on Key-Value Data Stores**. Huajun He(Southwest Jiaotong University), Ruiyuan Li, Sijie Ruan, Tianfu He, Jie Bao, Tianrui Li, Yu Zheng. ICDE 2022. [paper](https://ieeexplore.ieee.org/document/9835290)
+
+**Can Adversarial Training benefit Trajectory Representation? An Investigation on Robustness for Trajectory Similarity Computation**. Quanliang Jing(CAS), Shuo Liu, Xinxin Fan, Jingwei Li, Di Yao, Baoli Wang, Jingping Bi. CIKM 2022. [paper](https://dl.acm.org/doi/10.1145/3511808.3557250)
+
+**Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query**. Chunhui Feng(Soochow University), Zhicheng Pan, Junhua Fang, Jiajie Xu, Pengpeng Zhao, Lei Zhao. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557239)
+
+**Efficient Trajectory Similarity Computation with Contrastive Learning**. Liwei Deng(UESTC), Yan Zhao, Zidan Fu, Hao Sun, Shuncheng Liu, Kai Zheng. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557308) [code](https://github.com/LIWEIDENG0830/CL-TSim)
+
+**CSTRM: Contrastive Self-Supervised Trajectory Representation Model for trajectory similarity computation**. Xiang Liu(BJTU), Xiaoying Tan, Yuchun Guo, Yishuai Chen, Zhe Zhang. Computer Communications 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0140366422000019)
 
 ### 2021
 
@@ -21,6 +61,8 @@
 **Spatial-Temporal Similarity for Trajectories with Location Noise and Sporadic Sampling**. Guanyao Li(HKUST), Chih-Chieh Hung, Mengyun Liu, Linfei Pan, Wen-Chih Peng, S.-H. Gary Chan. ICDE 2021. [paper](https://www.cse.ust.hk/~gchan/papers/ICDE21_STS.pdf)
 
 **T3S: Effective Representation Learning for Trajectory Similarity Computation**. Peilun Yang(University of Technology Sydney), Hanchen Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin. ICDE 2021. [paper](https://www.computer.org/csdl/proceedings-article/icde/2021/918400c183/1uGXRQVWEi4)
+
+**REPOSE: Distributed Top-k Trajectory Similarity Search with Local Reference Point Tries**. Bolong Zheng(1Huazhong University of Science and Technology), Lianggui Weng, Xi Zhao, Kai Zeng, Xiaofang Zhou, Christian S. Jensen. ICDE 2021. [paper](https://arxiv.org/abs/2101.08929) [code](https://github.com/Chriszblong/REPOSE-HUST)
 
 ### 2020
 
@@ -118,9 +160,13 @@
 
 **You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction**. Osama Makansi(University of Freiburg), Julius Von Kügelgen, Francesco Locatello, Peter Vincent Gehler, Dominik Janzing, Thomas Brox, Bernhard Schölkopf. ICLR 2022. [paper](https://openreview.net/forum?id=POxF-LEqnF) [code](https://github.com/amazon-research/explainable-trajectory-prediction)
 
+**MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction**. Yuan Xu(Soochow University), Jiajie Xu, Jing Zhao, Kai Zheng, An Liu, Lei Zhao, Xiaofang Zhou. KDD 2022. [paper](https://dl.acm.org/doi/10.1145/3534678.3539360)
+
 **Social Interpretable Tree for Pedestrian Trajectory Prediction**. Liushuai Shi(Xi’an Jiaotong University), Le Wang, Chengjiang Long, Sanping Zhou, Fang Zheng, Nanning Zheng, Gang Hua. AAAI 2022. [paper](https://aaai-2022.virtualchair.net/poster_aaai1531) [code](https://github.com/lssiair/SIT)
 
 **Complementary Attention Gated Network for Pedestrian Trajectory Prediction**. Jinghai Duan(Xi'an Jiaotong University), Le Wang, Chengjiang Long, Sanping Zhou, Fang Zheng, Liushuai Shi, Gang Hua. AAAI 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/19933)
+
+**HeGA: Heterogeneous Graph Aggregation Network for Trajectory Prediction in High-Density Traffic**. Shuncheng Liu(UESTC), Xu Chen, Ziniu Wu, Liwei Deng, Han Su, Kai Zheng. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557345)
 
 **Multi-Vehicle Collaborative Learning for Trajectory Prediction With Spatio-Temporal Tensor Fusion**. Yu Wang(Tongji University), Shengjie Zhao, Rongqing Zhang, Xiang Cheng, Liuqing Yang. IEEE TITS 2022. [paper](https://ieeexplore.ieee.org/document/9151374)
 
@@ -150,7 +196,9 @@
 
 **Curriculum Meta-Learning for Next POI Recommendation**. Yudong Chen(THU), Xin Wang, Miao Fan, Jizhou Huang, Shengwen Yang, Wenwu Zhu. KDD 2021. [paper](https://dl.acm.org/doi/10.1145/3447548.3467132) [code](https://github.com/victorsoda/chaml)
 
-**Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation**. Yang Li(The University of Queensland), Tong Chen, Yadan Luo, Hongzhi Yin, Zi Huang. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/0206) 
+**STAN: Spatio-Temporal Attention Network for next Point-of-Interest Recommendation**. Yingtao Luo(University of Washington), Qiang Liu, Zhaocheng Liu. WWW 2021. [paper](https://arxiv.org/abs/2102.04095) [code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)
+
+**Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation**. Yang Li(The University of Queensland), Tong Chen, Yadan Luo, Hongzhi Yin, Zi Huang. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/0206)
 
 **MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation**. Huimin Sun(Soochow University), Jiajie Xu, Kai Zheng, Pengpeng Zhao, Pingfu Chao, Xiaofang Zhou. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/415)
 
@@ -166,7 +214,17 @@
 
 ### 2022
 
-**Modeling Spatial Trajectories With Attribute Representation Learning**. Meng Chen(Shandong University), Yan Zhao, Yang Liu, Xiaohui Yu, Kai Zheng. IEEE TKDE 2022. [paper](https://ieeexplore.ieee.org/document/9112685)
+**Frequency-based Randomization for Guaranteeing Differential Privacy in Spatial Trajectories**. Fengmei Jin(The University of Queensland), Wen Hua, Boyu Ruan, Xiaofang Zhou. ICDE 2022. [paper](https://ieeexplore.ieee.org/document/9835666) [code](https://github.com/uqwhua/FreqDP)
+
+**Mutual Distillation Learning Network for Trajectory-User Linking**. Wei Chen(Ocean University of China), Shuzhe Li, Chao Huang, Yanwei Yu, Yongguo Jiang, Junyu Dong. IJCAI 2022. [paper](https://arxiv.org/abs/2205.03773) [code](https://github.com/Onedean/MainTUL)
+
+**DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection**. Xiaolin Han(HKU), Reynold Cheng, Chenhao Ma, Tobias Grubenman. VLDB 2022. [paper](http://vldb.org/pvldb/volumes/15/paper/DeepTEA%3A%20Effective%20and%20Efficient%20Online%20Time-dependent%20Trajectory%20Outlier%20Detection)
+
+**Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly**. Won Joon Yun(Korea University), David Mohaisen, Soyi Jung, Jong-Kook Kim, Joongheon Kim. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557078) [code](https://github.com/WonJoon-Yun/GRT-HL)
+
+**Spatio-temporal Trajectory Learning using Simulation Systems**. Daniel Glake(University of Applied Sciences), Fabian Panse, Ulfia Lenfers, Thomas Clemen, Norbert Ritter. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557457)
+
+**TrajFormer: Efficient Trajectory Classification with Transformers**. Yuxuan Liang(NUS), Kun Ouyang, Yiwei Wang, Xu Liu, Hongyang Chen, Junbo Zhang, Yu Zheng, Roger Zimmermann. CIKM 2022. [paper](https://dl.acm.org/doi/10.1145/3511808.3557481) [code](https://github.com/yoshall/TrajFormer)
 
 **Personalized Long-distance Fuel-efficient Route Recommendation Through Historical Trajectories Mining**. Zhan Wang(Shandong University), Zhaohui Peng, Senzhang Wang, Qiao Song. WSDM 2022. [paper](https://dl.acm.org/doi/10.1145/3488560.3498512)
 
@@ -174,12 +232,19 @@
 
 **An Efficient Destination Prediction Approach Based on Future Trajectory Prediction and Transition Matrix Optimization**. Zhou Yang(Xi'an Jiaotong University), Heli Sun, Jianbin Huang, Zhongbin Sun, Hui Xiong, Shaojie Qiao, Ziyu Guan, Xiaolin Jia. IEEE TKDE 2021. [paper](https://ieeexplore.ieee.org/document/8550645)
 
+**Generating Mobility Trajectories with Retained Data Utility**. Chu Cao, Mo Li. KDD 2021. [paper](https://dl.acm.org/doi/10.1145/3447548.3467158) [code](https://github.com/caochuntu/KDD2021_guizu)
+
 **Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps**. Miao Fan(Baidu Inc.), Yibo Sun, Jizhou Huang, Haifeng Wang, Ying Li. KDD 2021. [paper](https://dl.acm.org/doi/10.1145/3447548.3467058)
 
 > POI Auto-Completion
 
 **E$^2$DTC: An End to End Deep Trajectory Clustering Framework via Self-Training**. Ziquan Fang(ZJU), Yuntao Du, Lu Chen, Yujia Hu, Yunjun Gao, Gang Chen. ICDE 2021. [paper](https://ieeexplore.ieee.org/document/9458936) [code](https://github.com/ZJU-DAILY/E2DTC)
 
+**Trajectory Simplification with Reinforcement Learning**. Zheng Wang(NTU), Cheng Long, Gao Cong. ICDE 2021. [paper](https://ieeexplore.ieee.org/document/9458681)
+
+**Real-World Trajectory Sharing with Local Differential Privacy**. Teddy Cunningham(University of Warwick), Graham Cormode, Hakan Ferhatosmanoglu, Divesh Srivastava. VLDB 2021. [paper](http://vldb.org/pvldb/volumes/14/paper/Real-World%20Trajectory%20Sharing%20with%20Local%20Differential%20Privacy)
+
 ### 2020
 
 **Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling**. Yiding Liu(NTU), Kaiqi Zhao, Gao Cong, Zhifeng Bao. ICDE 2020. [paper](https://ieeexplore.ieee.org/document/9101353) [code](https://github.com/liuyiding1993/ICDE2020_GMVSAE)
+

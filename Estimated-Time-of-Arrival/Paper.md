@@ -1,5 +1,9 @@
 # Estimated-Time-of-Arrival
 
+--2022--
+
+**DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps**. Jizhou Huang(Baidu Inc.), Zhengjie Huang, Xiaomin Fang, Shikun Feng, Xuyi Chen, Jiaxiang Liu, Haitao Yuan, Haifeng Wang. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557091) 
+
 --2021--
 
 **SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps**. Xiaomin Fang(Baidu Inc.), Jizhou Huang, Fan Wang, Lihang Liu, Yibo Sun, Haifeng Wang. KDD 2021. [paper](https://dl.acm.org/doi/10.1145/3447548.3467060)
@@ -15,6 +19,8 @@
 **HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival**. Huiting Hong(Didi Chuxing), Yucheng Lin, Xiaoqing Yang, Zang Li, Kun Fu, Zheng Wang, Xiaohu Qie, Jieping Ye. KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403294) [code](https://github.com/didi/heteta)
 
 **ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps**. Xiaomin Fang(Baidu Inc.), Jizhou Huang, Fan Wang, Lingke Zeng, Haijin Liang, Haifeng Wang. KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403320)
+
+**Effective Travel Time Estimation: When Historical Trajectories over Road Networks Matter**. Haitao Yuan(THU), Guoliang Li, Zhifeng Bao, Ling Feng. SIGMOD 2020. [paper](https://dl.acm.org/doi/10.1145/3318464.3389771)
 
 **TTPNet: A Neural Network for Travel Time Prediction Based on Tensor Decomposition and Graph Embedding**. Yibin Shen(East China Normal University), Cheqing Jin, Jiaxun Hua. TKDE 2020. [paper](https://ieeexplore.ieee.org/document/9261122) [code](https://github.com/YibinShen/TTPNet)
 

@@ -22,7 +22,7 @@
 
 ### Conference
 
-**Learning Effective Road Network Representation with Hierarchical Graph Neural Networks**. Ning Wu(BUAA), Xin Wayne Zhao, Jingyuan Wang, Dayan Pan. KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403043)
+**Learning Effective Road Network Representation with Hierarchical Graph Neural Networks**. Ning Wu(BUAA), Xin Wayne Zhao, Jingyuan Wang, Dayan Pan. KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403043) [code](https://gitee.com/solaris_wn/HRNR)
 
 ## 2019
 
@@ -30,4 +30,10 @@
 
 **Learning Embeddings of Intersections on Road Networks**. Meng-xiang Wang(Northeastern University), Wang-Chien Lee, Tao-yang Fu, Ge Yu. SIGSPATIAL 2019. [paper](https://dl.acm.org/doi/10.1145/3347146.3359075) [code](https://github.com/Leo-Bright/IRN2vec)
 
-**Graph Convolutional Networks for Road Networks**. Tobias Skovgaard Jepsen(Aalborg University), Christian S. Jensen, Thomas Dyhre Nielsen. SIGSPATIAL 2019. [paper](https://arxiv.org/abs/1908.11567)
+**Graph Convolutional Networks for Road Networks**. Tobias Skovgaard Jepsen(Aalborg University), Christian S. Jensen, Thomas Dyhre Nielsen. SIGSPATIAL 2019. [paper](https://arxiv.org/abs/1908.11567) [code](https://github.com/TobiasSkovgaardJepsen/relational-fusion-networks)
+
+## 2018
+
+### Conference
+
+**On Network Embedding for Machine Learning on Road Networks: A Case Study on the Danish Road Network**. Tobias Skovgaard Jepsen(Aalborg University), Christian S. Jensen, Thomas Dyhre Nielsen, Kristian Torp. Big Data 2018. [paper](https://www.computer.org/csdl/proceedings-article/big-data/2018/08622416/17D45VtKixO)
