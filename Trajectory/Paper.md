@@ -10,6 +10,8 @@
 
 **Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics**. Jiawei Jiang(BUAA), Dayan Pan, Houxing Ren, Xiaohan Jiang, Chao Li, Jingyuan Wang. ICDE 2023. [paper](https://arxiv.org/abs/2211.09510) [code](https://github.com/aptx1231/start)
 
+**When Self-attention and Topological Structure Make a Difference: Trajectory Modeling in Road Networks**. Guoying Zhu(Soochow University), Yu Sang, Wei Chen, Lei Zhao. APWeb-WAIM 2023.
+
 ### 2022
 
 **Weakly-supervised Temporal Path Representation Learning with Contrastive Curriculum Learning**. Sean Bin Yang, Chenjuan Guo, Jilin Hu, Bin Yang, Jian Tang, Christian S. Jensen. ICDE 2022. [paper](https://arxiv.org/abs/2203.16110) [code](https://github.com/Sean-Bin-Yang/TPR)
@@ -17,6 +19,8 @@
 **Jointly Contrastive Representation Learning on Road Network and Trajectory**. Zhenyu Mao(SenseTime Research), Ziyue Li, Dedong Li, Lei Bai, Rui Zhao. CIKM 2022. [paper](https://arxiv.org/abs/2209.06389) [code](https://github.com/mzy94/JCLRNT)
 
 **Modeling Spatial Trajectories With Attribute Representation Learning**. Meng Chen(Shandong University), Yan Zhao, Yang Liu, Xiaohui Yu, Kai Zheng. IEEE TKDE 2022. [paper](https://ieeexplore.ieee.org/document/9112685)
+
+**DouFu: A Double Fusion Joint Learning Method for Driving Trajectory Representation**. Han Wang(PKU), Zhou Huang, Xiao Zhou, Ganmin Yin, Yi Bao, Yi Zhang. KBS 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0950705122011285)
 
 **Contrastive Pre-training of Spatial-Temporal Trajectory Embeddings**. Yan Lin(BJTU), Huaiyu Wan, Shengnan Guo, Youfang Lin. arXiv 2022. [paper](https://arxiv.org/abs/2207.14539)
 
@@ -33,6 +37,12 @@
 **Trembr: Exploring Road Networks for Trajectory Representation Learning**. Tao-Yang Fu(The Pennsylvania State University), Wang-Chien Lee. TIST 2020. [paper](https://dl.acm.org/doi/10.1145/3361741)
 
 ## Trajectory Similarity
+
+### 2023
+
+**GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM**. Silin Zhou(UESTC), Jing Li, Hao Wang, Shuo Shang, Peng Han. AAAI 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25624) [code](https://github.com/slzhou-xy/GRLSTM)
+
+**Trajectory Representation Learning Based on Road Network Partition for Similarity Computation**. Jiajia Li(Shenyang Aerospace University), Mingshen Wang, Lei Li, Kexuan Xin, Wen Hua, Xiaofang Zhou. DASFAA 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-30637-2_26)
 
 ### 2022
 
@@ -51,6 +61,8 @@
 **Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query**. Chunhui Feng(Soochow University), Zhicheng Pan, Junhua Fang, Jiajie Xu, Pengpeng Zhao, Lei Zhao. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557239)
 
 **Efficient Trajectory Similarity Computation with Contrastive Learning**. Liwei Deng(UESTC), Yan Zhao, Zidan Fu, Hao Sun, Shuncheng Liu, Kai Zheng. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557308) [code](https://github.com/LIWEIDENG0830/CL-TSim)
+
+**Towards robust trajectory similarity computation: Representation-based spatio-temporal similarity quantification**. Ziwen Chen(UESTC), Ke Li, Silin Zhou, Lisi Chen & Shuo Shang. WWW Journal 2022. [paper](https://link.springer.com/article/10.1007/s11280-022-01085-4) [code](https://github.com/Like-China/TrajectorySim-RSTS-model)
 
 **CSTRM: Contrastive Self-Supervised Trajectory Representation Model for trajectory similarity computation**. Xiang Liu(BJTU), Xiaoying Tan, Yuchun Guo, Yishuai Chen, Zhe Zhang. Computer Communications 2022. [paper](https://www.sciencedirect.com/science/article/pii/S0140366422000019)
 
@@ -108,6 +120,46 @@
 
 
 
+## Trajectory Prediction
+
+### 2023
+
+**A Set of Control Points Conditioned Pedestrian Trajectory Prediction**. Inhwan Bae(Gwangju Institute of Science and Technology), Hae-Gon Jeon. AAAI 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25759) [code](https://github.com/InhwanBae/GraphTERN)
+
+### 2022
+
+**You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction**. Osama Makansi(University of Freiburg), Julius Von Kügelgen, Francesco Locatello, Peter Vincent Gehler, Dominik Janzing, Thomas Brox, Bernhard Schölkopf. ICLR 2022. [paper](https://openreview.net/forum?id=POxF-LEqnF) [code](https://github.com/amazon-research/explainable-trajectory-prediction)
+
+**MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction**. Yuan Xu(Soochow University), Jiajie Xu, Jing Zhao, Kai Zheng, An Liu, Lei Zhao, Xiaofang Zhou. KDD 2022. [paper](https://dl.acm.org/doi/10.1145/3534678.3539360)
+
+**Social Interpretable Tree for Pedestrian Trajectory Prediction**. Liushuai Shi(Xi’an Jiaotong University), Le Wang, Chengjiang Long, Sanping Zhou, Fang Zheng, Nanning Zheng, Gang Hua. AAAI 2022. [paper](https://aaai-2022.virtualchair.net/poster_aaai1531) [code](https://github.com/lssiair/SIT)
+
+**Complementary Attention Gated Network for Pedestrian Trajectory Prediction**. Jinghai Duan(Xi'an Jiaotong University), Le Wang, Chengjiang Long, Sanping Zhou, Fang Zheng, Liushuai Shi, Gang Hua. AAAI 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/19933)
+
+**HeGA: Heterogeneous Graph Aggregation Network for Trajectory Prediction in High-Density Traffic**. Shuncheng Liu(UESTC), Xu Chen, Ziniu Wu, Liwei Deng, Han Su, Kai Zheng. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557345)
+
+**Multi-Vehicle Collaborative Learning for Trajectory Prediction With Spatio-Temporal Tensor Fusion**. Yu Wang(Tongji University), Shengjie Zhao, Rongqing Zhang, Xiang Cheng, Liuqing Yang. IEEE TITS 2022. [paper](https://ieeexplore.ieee.org/document/9151374)
+
+**PreCLN: Pretrained-based contrastive learning network for vehicle trajectory prediction**. Bingqi Yan(Ocean University of China), Geng Zhao, Lexue Song, Yanwei Yu & Junyu Dong. WWW Jounral 2022. [paper](https://link.springer.com/article/10.1007/s11280-022-01121-3)
+
+### 2021
+
+**Multimodal Transformer Networks for Pedestrian Trajectory Prediction**. Ziyi Yin(Xi’an Jiaotong University), Ruijin Liu, Zhiliang Xiong, Zejian Yuan. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/174) [code](https://github.com/ericyinyzy/MTN_trajectory)
+
+**Pre-Training Context and Time Aware Location Embeddings from Spatial-Temporal Trajectories for User Next Location Prediction**. Yan Lin(BJTU), Huaiyu Wan, Shengnan Guo, Youfang Lin. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16548) [code](https://github.com/Logan-Lin/TALE)
+
+**Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction**. Inhwan Bae(Gwangju Institute of Science and Technology), Hae-Gon Jeon. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16174)
+
+**Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision**. Rongqin Liang(Shenzhen University), Yuanman Li, Xia Li, Yi Tang, Jiantao Zhou, Wenbin Zou. AAAI 2021. [paper](https://arxiv.org/abs/2012.01884) [code](https://github.com/Blessinglrq/TPNMS)
+
+**A Bidirectional Trajectory Prediction Model for Users in Mobile Networks**. Nasrin Bahra(Polytechnique Montréal), Samuel Pierre. IEEE Access 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9667369)
+
+### 2016
+
+**Generating Long-term Trajectories Using Deep Hierarchical Networks**. Stephan Zheng(Caltech), Yisong Yue, Patrick Lucey. NIPS 2016. [paper](https://arxiv.org/abs/1706.07138)
+
+
+
 ## Trajectory Recovery
 
 ### 2021
@@ -154,38 +206,6 @@
 
 
 
-## Trajectory Prediction
-
-### 2022
-
-**You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction**. Osama Makansi(University of Freiburg), Julius Von Kügelgen, Francesco Locatello, Peter Vincent Gehler, Dominik Janzing, Thomas Brox, Bernhard Schölkopf. ICLR 2022. [paper](https://openreview.net/forum?id=POxF-LEqnF) [code](https://github.com/amazon-research/explainable-trajectory-prediction)
-
-**MetaPTP: An Adaptive Meta-optimized Model for Personalized Spatial Trajectory Prediction**. Yuan Xu(Soochow University), Jiajie Xu, Jing Zhao, Kai Zheng, An Liu, Lei Zhao, Xiaofang Zhou. KDD 2022. [paper](https://dl.acm.org/doi/10.1145/3534678.3539360)
-
-**Social Interpretable Tree for Pedestrian Trajectory Prediction**. Liushuai Shi(Xi’an Jiaotong University), Le Wang, Chengjiang Long, Sanping Zhou, Fang Zheng, Nanning Zheng, Gang Hua. AAAI 2022. [paper](https://aaai-2022.virtualchair.net/poster_aaai1531) [code](https://github.com/lssiair/SIT)
-
-**Complementary Attention Gated Network for Pedestrian Trajectory Prediction**. Jinghai Duan(Xi'an Jiaotong University), Le Wang, Chengjiang Long, Sanping Zhou, Fang Zheng, Liushuai Shi, Gang Hua. AAAI 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/19933)
-
-**HeGA: Heterogeneous Graph Aggregation Network for Trajectory Prediction in High-Density Traffic**. Shuncheng Liu(UESTC), Xu Chen, Ziniu Wu, Liwei Deng, Han Su, Kai Zheng. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557345)
-
-**Multi-Vehicle Collaborative Learning for Trajectory Prediction With Spatio-Temporal Tensor Fusion**. Yu Wang(Tongji University), Shengjie Zhao, Rongqing Zhang, Xiang Cheng, Liuqing Yang. IEEE TITS 2022. [paper](https://ieeexplore.ieee.org/document/9151374)
-
-### 2021
-
-**Multimodal Transformer Networks for Pedestrian Trajectory Prediction**. Ziyi Yin(Xi’an Jiaotong University), Ruijin Liu, Zhiliang Xiong, Zejian Yuan. IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/174) [code](https://github.com/ericyinyzy/MTN_trajectory)
-
-**Pre-Training Context and Time Aware Location Embeddings from Spatial-Temporal Trajectories for User Next Location Prediction**. Yan Lin(BJTU), Huaiyu Wan, Shengnan Guo, Youfang Lin. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16548) [code](https://github.com/Logan-Lin/TALE)
-
-**Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction**. Inhwan Bae(Gwangju Institute of Science and Technology), Hae-Gon Jeon. AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16174)
-
-**Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision**. Rongqin Liang(Shenzhen University), Yuanman Li, Xia Li, Yi Tang, Jiantao Zhou, Wenbin Zou. AAAI 2021. [paper](https://arxiv.org/abs/2012.01884) [code](https://github.com/Blessinglrq/TPNMS)
-
-### 2016
-
-**Generating Long-term Trajectories Using Deep Hierarchical Networks**. Stephan Zheng(Caltech), Yisong Yue, Patrick Lucey. NIPS 2016. [paper](https://arxiv.org/abs/1706.07138)
-
-
-
 ## POI Recommendation
 
 ### 2022
@@ -212,6 +232,12 @@
 
 ## Others
 
+### 2023
+
+**PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning**. Huandong Wang(THU), Changzheng Gao, Yuchen Wu, Depeng Jin, Lina Yao, Yong Li. AAAI 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26700) [code](https://github.com/tsinghua-fib-lab/PateGail)
+
+**Continuous Trajectory Generation Based on Two-Stage GAN**. Wenjun Jiang(BUAA), Wayne Xin Zhao, Jingyuan Wang, Jiawei Jiang. AAAI 2023. [paper](https://arxiv.org/abs/2301.07103) [code](https://github.com/WenMellors/TS-TrajGen)
+
 ### 2022
 
 **Frequency-based Randomization for Guaranteeing Differential Privacy in Spatial Trajectories**. Fengmei Jin(The University of Queensland), Wen Hua, Boyu Ruan, Xiaofang Zhou. ICDE 2022. [paper](https://ieeexplore.ieee.org/document/9835666) [code](https://github.com/uqwhua/FreqDP)
@@ -227,6 +253,8 @@
 **TrajFormer: Efficient Trajectory Classification with Transformers**. Yuxuan Liang(NUS), Kun Ouyang, Yiwei Wang, Xu Liu, Hongyang Chen, Junbo Zhang, Yu Zheng, Roger Zimmermann. CIKM 2022. [paper](https://dl.acm.org/doi/10.1145/3511808.3557481) [code](https://github.com/yoshall/TrajFormer)
 
 **Personalized Long-distance Fuel-efficient Route Recommendation Through Historical Trajectories Mining**. Zhan Wang(Shandong University), Zhaohui Peng, Senzhang Wang, Qiao Song. WSDM 2022. [paper](https://dl.acm.org/doi/10.1145/3488560.3498512)
+
+**Spatial-Temporal Attention Mechanism and Graph Convolutional Networks for Destination Prediction**. Cong Li(Wuhan University), Huyin Zhang, Zengkai Wang, Yonghao Wu, Fei Yang. Frontiers in Neurorobotics 2022. [paper](https://www.frontiersin.org/articles/10.3389/fnbot.2022.925210/full)
 
 ### 2021
 

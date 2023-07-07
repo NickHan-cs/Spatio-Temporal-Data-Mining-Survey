@@ -2,6 +2,12 @@
 
 [TOC]
 
+## 2023
+
+### Conference
+
+**Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning**. Yanchuan Chang(University of Melbourne), Egemen Tanin, Xin Cao, Jianzhong Qi. EDBT 2022. [paper](https://openproceedings.org/2023/conf/edbt/paper-193.pdf) [code](https://github.com/changyanchuan/SARN)
+
 ## 2022
 
 ### Journal
@@ -15,6 +21,8 @@
 **Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics**. Yile Chen(NTU), Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison. CIKM 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482293)
 
 ### Journal
+
+**Pre-Training Time-Aware Location Embeddings from Spatial-Temporal Trajectories**. Huaiyu Wan(BJTU), Yan Lin, Shengnan Guo, Youfang Lin. TKDE 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9351627) [code](https://github.com/Logan-Lin/TALE)
 
 **On Representation Learning for Road Networks**. Meng-Xiang Wang(Northeastern University), Wang-Chien Lee, Tao-Yang Fu, Ge Yu. ACM TIST 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3424346)
 

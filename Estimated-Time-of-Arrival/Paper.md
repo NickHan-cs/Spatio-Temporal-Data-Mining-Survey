@@ -2,7 +2,9 @@
 
 --2022--
 
-**DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps**. Jizhou Huang(Baidu Inc.), Zhengjie Huang, Xiaomin Fang, Shikun Feng, Xuyi Chen, Jiaxiang Liu, Haitao Yuan, Haifeng Wang. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557091) 
+**DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps**. Jizhou Huang(Baidu Inc.), Zhengjie Huang, Xiaomin Fang, Shikun Feng, Xuyi Chen, Jiaxiang Liu, Haitao Yuan, Haifeng Wang. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557091)
+
+**Spatial Semantic Learning for Travel Time Estimation**. Yi Xu(BUAA), Leilei Sun, Bowen Du, Liangzhe Han. KSEM 2022. [paper](https://link.springer.com/chapter/10.1007/978-3-031-10989-8_2)
 
 --2021--
 
