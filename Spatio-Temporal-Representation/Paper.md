@@ -6,7 +6,11 @@
 
 ### Conference
 
-**Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning**. Yanchuan Chang(University of Melbourne), Egemen Tanin, Xin Cao, Jianzhong Qi. EDBT 2022. [paper](https://openproceedings.org/2023/conf/edbt/paper-193.pdf) [code](https://github.com/changyanchuan/SARN)
+**Urban Region Representation Learning with OpenStreetMap Building Footprints**. Yi Li(NTU), Weiming Huang, Gao Cong, Hao Wang, Zheng Wang. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599538) [code](https://github.com/LightChaser666/RegionDCL)
+
+**Generative Causal Interpretation Model for Spatio-Temporal Representation Learning**. Yu Zhao(BUAA), Pan Deng, Junting Liu, Xiaofeng Jia, Jianwei Zhang. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599363)
+
+**Spatial Structure-Aware Road Network Embedding via Graph Contrastive Learning**. Yanchuan Chang(University of Melbourne), Egemen Tanin, Xin Cao, Jianzhong Qi. EDBT 2023. [paper](https://openproceedings.org/2023/conf/edbt/paper-193.pdf) [code](https://github.com/changyanchuan/SARN)
 
 ## 2022
 

@@ -1,18 +1,26 @@
 # Map-Matching
 
---2020--
+[TOC]
+
+
+
+## 2023
+
+**LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map Matching**. Yue Cui(HKUST), Shuhao Li, Wenjin Deng, Zhaokun Zhang, Jing ZHAO, Kai Zheng, Xiaofang Zhou. ICDE 2023. [paper](https://ieeexplore.ieee.org/document/10184797/) [code](https://github.com/shiweijiezero/LHMM)
+
+## 2020
 
 **A Survey on Map-Matching Algorithms**. Pingfu Chao(UQ), Yehong Xu, Wen Hua, Xiaofang Zhou. ADC 2020. [paper](https://arxiv.org/abs/1910.13065) 
 
 > Survey
 
---2019--
+## 2019
 
 **A dynamic two-dimensional (D2D) weight-based map-matching algorithm**. M.N. Sharath(IIT), Nagendra R. Velaga, Mohammed A. Quddus. Transportation Research Part C: Emerging Technologies 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0968090X18309525)
 
 > Weight-based, F-measure
 
---2018--
+## 2018
 
 **Comparative Study and Application-Oriented Classification of Vehicular Map-Matching Methods**. Matej Kubicka(CNRS), Arben Cela, Hugues Mounier, Silviu-Iulian Niculescu. IEEE ITSM 2018. [paper](https://ieeexplore.ieee.org/document/8344804)
 

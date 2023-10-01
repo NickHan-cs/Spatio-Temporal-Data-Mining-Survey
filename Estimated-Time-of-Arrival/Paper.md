@@ -1,6 +1,24 @@
 # Estimated-Time-of-Arrival
 
---2022--
+[TOC]
+
+
+
+## 2024
+
+### Conference
+
+**Origin-Destination Travel Time Oracle for Map-based Services**. Yan Lin(BJTU), Huaiyu Wan, Jilin Hu, Shengnan Guo, Bin Yang, Youfang Lin, Christian S. Jensen. SIGMOD 2024. [paper](https://arxiv.org/abs/2307.03048) [code](https://github.com/Logan-Lin/DOT)
+
+## 2023
+
+### Conference
+
+**Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi**. Hao Liu(HKUST), Wenzhao Jiang, Shui Liu, Xi Chen. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599925)
+
+**iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation**. Jindong Han(HKUST), Hao Liu, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599842)
+
+## 2022
 
 **DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps**. Jizhou Huang(Baidu Inc.), Zhengjie Huang, Xiaomin Fang, Shikun Feng, Xuyi Chen, Jiaxiang Liu, Haitao Yuan, Haifeng Wang. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557091)
 
