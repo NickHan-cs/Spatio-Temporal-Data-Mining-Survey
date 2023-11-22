@@ -176,7 +176,15 @@
 
 ## Estimated Time of Arrival
 
+### 2023
+
+**iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation**. Jindong Han(HKUST), Hao Liu, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong. KDD 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599842)
+
+**Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi**. Hao Liu(HKUST), Wenzhao Jiang, Shui Liu, Xi Chen. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599925)
+
 ### 2022
+
+**Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival**. Zebin Chen(South China University of Technology), Xiaolin Xiao, Yue-Jiao Gong, Jun Fang, Nan Ma, Hua Chai, Zhiguang Cao. KDD 2022. [paper](dl.acm.org/doi/abs/10.1145/3534678.3539051) [code](https://github.com/YuejiaoGong/HierETA)
 
 **DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps**. Jizhou Huang(Baidu Inc.), Zhengjie Huang, Xiaomin Fang, Shikun Feng, Xuyi Chen, Jiaxiang Liu, Haitao Yuan, Haifeng Wang. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557091)
 
@@ -510,6 +518,8 @@
 
 **An Efficient Destination Prediction Approach Based on Future Trajectory Prediction and Transition Matrix Optimization**. Zhou Yang(Xi'an Jiaotong University), Heli Sun, Jianbin Huang, Zhongbin Sun, Hui Xiong, Shaojie Qiao, Ziyu Guan, Xiaolin Jia. IEEE TKDE 2021. [paper](https://ieeexplore.ieee.org/document/8550645)
 
+**The Hybrid Trip Destination Prediction Model of Vehicles Based on Autoencoder and High-Order Interaction Features**. Yuchu He(Zhengzhou Normal University), Zhijuan Jia, Mingsheng Hu, Geng Zhang, Hanjie Dong. TITS 2021. [paper](https://ieeexplore.ieee.org/document/9613818)
+
 **Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps**. Miao Fan(Baidu Inc.), Yibo Sun, Jizhou Huang, Haifeng Wang, Ying Li. KDD 2021. [paper](https://dl.acm.org/doi/10.1145/3447548.3467058)
 
 > POI Auto-Completion
@@ -520,3 +530,6 @@
 
 **Real-World Trajectory Sharing with Local Differential Privacy**. Teddy Cunningham(University of Warwick), Graham Cormode, Hakan Ferhatosmanoglu, Divesh Srivastava. VLDB 2021. [paper](http://vldb.org/pvldb/volumes/14/paper/Real-World%20Trajectory%20Sharing%20with%20Local%20Differential%20Privacy)
 
+### 2019
+
+**Forecasting Gathering Events through Trajectory Destination Prediction: A Dynamic Hybrid Model**. Amin Vahedian Khezerlou(University of Iowa), Xun Zhou;, Ling Tong, Yanhua Li, Jun Luo. TKDE 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8812906)

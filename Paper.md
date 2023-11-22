@@ -88,10 +88,6 @@
 
 > Traffic Congestion Prediction
 
-**AutoSTL: Automated Spatio-Temporal Multi-Task Learning**. Zijian Zhang(Jilin University), Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang. AAAI 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25616)
-
-**Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropout**. Hongjun Wang(SUST), Jiyuan Chen, Tong Pan, Zipei Fan, Xuan Song, Renhe Jiang, Lingyu Zhang, Yi Xie, Zhongyi Wang, Boyuan Zhang. AAAI 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25590) [code](https://github.com/Urban-Computing/STC-Dropout)
-
 **GMDNet: A Graph-based Mixture Density Network for Estimating Packages' Multimodal Travel Time Distribution**. Xiaowei Mao(BJTU), Huaiyu Wan, Haomin Wen, Fan Wu, Jianbin Zheng, Yuting Qiang, Shengnan Guo, Lixia Wu, Haoyuan Hu, Youfang Lin. AAAI 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25578) [code](https://github.com/maoxiaowei97/GMDNet)
 
 **Generative-Contrastive-Attentive Spatial-Temporal Network for Traffic Data Imputation**. Wenchuang Peng(BJTU), Youfang Lin, Shengnan Guo, Weiwen Tang, Le Liu, Huaiyu Wan. PAKDD 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-33383-5_4)
