@@ -396,6 +396,8 @@
 
 ### 2023
 
+**TrajBERT: BERT-Based Trajectory Recovery with Spatial-Temporal Refinement for Implicit Sparse Trajectories**. Junjun Si(PKU), Jin Yang, Yang Xiang, Hanqiu Wang, Li Li, Rongqing Zhang, Bo Tu, Xiangqun Chen. TMC 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10189092)
+
 **RNTrajRec: Road Network Enhanced Trajectory Recovery with Spatial-Temporal Transformer**. Yuqi Chen(Fudan University), Hanyuan Zhang, Weiwei Sun, Baihua Zheng. ICDE 2023. [paper](https://arxiv.org/abs/2211.13234) [code](https://github.com/chenyuqi990215/RNTrajRec)
 
 ### 2021

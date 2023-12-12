@@ -6,6 +6,8 @@
 
 ### Conference
 
+**GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks**. Zhonghang Li(South China University of Technology), Lianghao Xia, Yong Xu, Chao Huang. NIPS 2023. [paper](https://arxiv.org/abs/2311.04245) [code](https://github.com/HKUDS/GPT-ST)
+
 **SimST: A GNN-Free Spatio-Temporal Learning Framework for Traffic Forecasting**. Xu Liu(NUS), Yuxuan Liang, Chao Huang, Hengchang Hu, Yushi Cao, Bryan Hooi, Roger Zimmermann. ICLR 2023. [paper](https://openreview.net/forum?id=2ppuWD3dkie)
 
 **Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting**. Yunhao Zhang(SJTU), Junchi Yan. ICLR 2023. [paper](https://openreview.net/forum?id=vSVLM2j9eie) [code](https://github.com/Thinklab-SJTU/Crossformer)
