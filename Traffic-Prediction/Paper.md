@@ -2,6 +2,20 @@
 
 [TOC]
 
+## 2024
+
+### Conference
+
+**NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling**. Kun Wang(USTC), Hao Wu, Yifan Duan, Guibin Zhang, Kai Wang, Xiaojiang Peng, Yu Zheng, Yuxuan Liang, Yang Wang. ICLR 2024. [paper](https://openreview.net/forum?id=sLdVl0q68X)
+
+### Preprint
+
+**UrbanGPT: Spatio-Temporal Large Language Models**. Zhonghang Li, Lianghao Xia, Jiabin Tang, Yong Xu, Lei Shi, Long Xia, Dawei Yin, Chao Huang. arXiv 2024. [paper](https://arxiv.org/abs/2403.00813)
+
+**Spatial-Temporal Large Language Model for Traffic Prediction**. Chenxi Liu(NTU), Sun Yang, Qianxiong Xu, Zhishuai Li, Cheng Long, Ziyue Li, Rui Zhao. arXiv 2024. [paper](https://arxiv.org/abs/2401.10134)
+
+**How Can Large Language Models Understand Spatial-Temporal Data?**. Lei Liu(Dalian University of Technology), Shuo Yu, Runze Wang, Zhenxun Ma, Yanming Shen. arXiv 2024. [paper](https://arxiv.org/abs/2401.14192)
+
 ## 2023
 
 ### Conference
@@ -24,6 +38,8 @@
 
 **Temporal Dependencies in Feature Importance for Time Series Prediction**. Kin Kwan Leung(Layer 6 AI), Clayton Rooke, Jonathan Smith, Saba Zuberi, Maksims Volkovs. ICLR 2023. [paper](https://openreview.net/forum?id=C0q9oBc3n4) [code](https://github.com/layer6ai-labs/WinIT)
 
+**Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation**. Qianru Zhang(HKU), Chao Huang, Lianghao Xia, Zheng Wang, Siu Ming Yiu, Ruihua Han. ICML 2023. [paper](https://openreview.net/forum?id=thTcrwTATe)
+
 **Frigate: Frugal Spatio-temporal Forecasting on Road Networks**. Mridul Gupta(Indian Institute of Technology Delhi), Hariprasad Kodamana, Sayan Ranu. KDD 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599357) [code](https://github.com/frigategnn/Frigate)
 
 **Localised Adaptive Spatial-Temporal Graph Neural Network**. Wenying Duan(Nanchang University), Xiaoxi He, Zimu Zhou, Lothar Thiele, Hong Rao. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599418)
@@ -39,6 +55,8 @@
 **Hierarchical Proxy Modeling for Improved HPO in Time Series Forecasting**. Arindam Jati(IBM Research), Vijay Ekambaram, Shaonli Pal, Brian Quanz, Wesley M. Gifford, Pavithra Harsha, Stuart Siegel, Sumanta Mukherjee, Chandra Narayanaswami. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599378)
 
 **Large-scale Urban Cellular Traffic Generation via Knowledge-Enhanced GANs with Multi-Periodic Patterns**. Shuodi Hui(THU), Huandong Wang, Tong Li, Xinghao Yang, Xing Wang, Junlan Feng, Lin Zhu, Chao Deng, Pan Hui, Depeng Jin, Yong Li. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599853) [code](https://github.com/shirdy/TrafficGeneration/tree/master/Urban)
+
+**Automated Spatio-Temporal Graph Contrastive Learning**. Qianru Zhang(HKU), Chao Huang, Lianghao Xia, Zheng Wang, Zhonghang Li, Siuming Yiu. WWW 2023. [paper](https://dl.acm.org/doi/10.1145/3543507.3583304)
 
 **Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting**. Yusheng Zhao(PKU), Xiao Luo, Wei Ju, Chong Chen, Xian-Sheng Hua, Ming Zhang. ICDE 2023. [paper](https://ieeexplore.ieee.org/document/10184800) [code](https://github.com/wanghq21/MICN)
 
@@ -112,6 +130,8 @@
 
 ### Journal
 
+**Sparse Graph Learning from Spatiotemporal Time Series**. Andrea Cini(Università della Svizzera italiana), Daniele Zambon, Cesare Alippi. JMLR 2023. [paper](https://www.jmlr.org/papers/v24/22-1154.html)
+
 **Spatio-Temporal Dynamic Graph Relation Learning for Urban Metro Flow Prediction**. Peng Xie(Southwest Jiaotong University), Minbo Ma, Tianrui Li, Shenggong Ji, Shengdong Du, Zeng Yu, Junbo Zhang. TKDE 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10107812)
 
 **Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting**. Ling Chen(ZJU), Donghui Chen, Zongjiang Shang, Binqing Wu, Cen Zheng, Bo Wen, Wei Zhang. TKDE 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10105527) [code](https://github.com/shangzongjiang/MAGNN)
@@ -123,6 +143,10 @@
 **Transfer Learning With Spatial–Temporal Graph Convolutional Network for Traffic Prediction**. Zhixiu Yao(Chongqing University of Posts and Telecommunications), Shichao Xia, Yun Li, Guangfu Wu, Linli Zuo. TITS 2023. [paper](https://ieeexplore.ieee.org/document/10063166)
 
 ### Preprint
+
+**Spatio-Temporal Graph Learning with Large Language Model**. Qianru Zhang(HKU), Xubin Ren, Lianghao Xia, Siu Ming Yiu, Chao Huang. OpenReview 2023. [paper](https://openreview.net/forum?id=QUkcfqa6GX)
+
+**Simple Yet Effective Spatio-Temporal Prompt Learning**. Qianru Zhang(HKU), Lianghao Xia, Zhonghang Li, Siu Ming Yiu, Chao Huang. OpenReview 2023. [paper](https://openreview.net/forum?id=YUNnVFlpjp)
 
 **HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting**. Zezhi Shao(CAS), Fei Wang, Zhao Zhang, Yuchen Fang, Guangyin Jin, Yongjun Xu. arXiv 2023. [paper](https://arxiv.org/abs/2307.14596)
 
@@ -138,7 +162,7 @@
 
 **Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks**. Yijing Liu(ZJU), Qinxian Liu, Jian-Wei Zhang, Haozhe Feng, Zhongwei Wang, Zihan Zhou, Wei Chen. NIPS 2022. [paper](https://papers.nips.cc/paper_files/paper/2022/hash/7b102c908e9404dd040599c65db4ce3e-Abstract-Conference.html) [code](https://github.com/zyplanet/TPGNN)
 
-**Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement**. Yan Li( Baidu Researc), Xinjiang Lu, Yaqing Wang, Dejing Dou. NIPS 2022. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/91a85f3fb8f570e6be52b333b5ab017a-Abstract-Conference.html) [code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE)
+**Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement**. Yan Li( Baidu Research), Xinjiang Lu, Yaqing Wang, Dejing Dou. NIPS 2022. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/91a85f3fb8f570e6be52b333b5ab017a-Abstract-Conference.html) [code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE)
 
 **Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting**. Hyunwook Lee(Ulsan National Institute of Science and Technology), Seungmin Jin, Hyeshin Chu, Hongkyu Lim, Sungahn Ko. ICLR 2022. [paper](https://openreview.net/forum?id=wwDg3bbYBIq) [code](https://github.com/HyunWookL/PM-MemNet)
 

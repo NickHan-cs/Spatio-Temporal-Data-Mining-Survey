@@ -10,6 +10,8 @@
 
 ### Journal
 
+**Pre-training General Trajectory Embeddings with Maximum Multi-view Entropy Coding**. Yan Lin(BJTU), Huaiyu Wan, Shengnan Guo, Jilin Hu, Christian S. Jensen, Youfang Lin. TKDE 2023. [paper](https://arxiv.org/abs/2207.14539)
+
 **Self-supervised contrastive representation learning for large-scale trajectories**. Shuzhe Li(Ocean University of China), Wei Chen, Bingqi Yan, Zhen Li, Shunzhi Zhu, Yanwei Yu. FGCS(CCF-C) 2023. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X23002376)
 
 ## 2022
