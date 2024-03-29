@@ -2,6 +2,12 @@
 
 [TOC]
 
+## 2024
+
+### Conference
+
+**Urban Region Embedding via Multi-View Contrastive Prediction**. Zechen Li(Shandong University), Weiming Huang, Kai Zhao, Min Yang, Yongshun Gong, Meng Chen. AAAI 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28718)
+
 ## 2023
 
 ### Conference

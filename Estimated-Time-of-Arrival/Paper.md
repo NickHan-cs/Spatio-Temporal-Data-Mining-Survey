@@ -18,6 +18,8 @@
 
 **iETA: A Robust and Scalable Incremental Learning Framework for Time-of-Arrival Estimation**. Jindong Han(HKUST), Hao Liu, Shui Liu, Xi Chen, Naiqiang Tan, Hua Chai, Hui Xiong. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599842)
 
+**GBTTE: Graph Attention Network Based Bus Travel Time Estimation**. Yuecheng Rong(XJTU), Juntao Yao, Jun Liu, Yifan Fang, Wei Luo, Hao Liu, Jie Ma, Zepeng Dan, Jinzhu Lin, Zhi Wu, Yan Zhang, Chuanming Zhang. CIKM 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614730)
+
 ## 2022
 
 **DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps**. Jizhou Huang(Baidu Inc.), Zhengjie Huang, Xiaomin Fang, Shikun Feng, Xuyi Chen, Jiaxiang Liu, Haitao Yuan, Haifeng Wang. CIKM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557091)

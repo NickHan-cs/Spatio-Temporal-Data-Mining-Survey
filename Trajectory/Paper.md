@@ -48,6 +48,10 @@
 
 ## Trajectory Similarity
 
+### 2024
+
+**KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding**. Zhen Chen(UESTC), Dalin Zhang, Shanshan Feng, Kaixuan Chen, Lisi Chen, Peng Han, Shuo Shang. AAAI 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28672)
+
 ### 2023
 
 **Contrastive Trajectory Similarity Learning with Dual-Feature Attention**. Yanchuan Chang(The University of Melbourne), Jianzhong Qi, Yuxuan Liang, Egemen Tanin. ICDE 2023. [paper](https://arxiv.org/abs/2210.05155) [code](https://github.com/changyanchuan/TrajCL)
@@ -448,6 +452,8 @@
 
 ### 2023
 
+**DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model**. Yuanshao Zhu(Southern University of Science and Technology), Yongchao Ye, Shiyao Zhang, Xiangyu Zhao, James Yu. NeurIPS 2023. [paper](https://openreview.net/forum?id=ykMdzevPkJ)
+
 **Practical Synthetic Human Trajectories Generation Based on Variational Point Processes**. Qingyue Long(THU), Huandong Wang, Tong Li, Lisi Huang, Kun Wang, Qiong Wu, Guangyu Li, Yanping Liang, Li Yu, Yong Li. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599888)
 
 **PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning**. Huandong Wang(THU), Changzheng Gao, Yuchen Wu, Depeng Jin, Lina Yao, Yong Li. AAAI 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26700) [code](https://github.com/tsinghua-fib-lab/PateGail)
@@ -467,6 +473,14 @@
 
 
 ## POI Recommendation
+
+### 2024
+
+**Spatial-Temporal Interplay in Human Mobility: A Hierarchical Reinforcement Learning Approach with Hypergraph Representation**. Zhaofan Zhang(University of Macau), Yanan Xiao, Lu Jiang, Dingqi Yang, Minghao Yin, Pengyang Wang. AAAI 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28793)
+
+**Successive POI Recommendation via Brain-inspired Spatiotemporal Aware Representation**. Gehua Ma(ZJU), He Wang, Jingyuan Zhao, Rui Yan, Huajin Tang. AAAI 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/27813)
+
+**Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation**. Tianhao Huang(Nankai University), Xuan Pan, Xiangrui Cai, Ying Zhang, Xiaojie Yuan. AAAI 2024. [paper]() [code](https://github.com/Skyyyy0920/MTNet)
 
 ### 2023
 

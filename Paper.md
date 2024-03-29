@@ -4,9 +4,53 @@
 
 ## 2024
 
+Real-time E-bike Route Planning with Battery Range Prediction
+
+GeoLLM: Extracting Geospatial Knowledge from Large Language Models
+
+AirPhyNet: Harnessing Physics-Guided Neural Networks for Air Quality Prediction
+
+Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data
+
+Hawkes-enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations
+
+Earthfarsser: Versatile Spatio-Temporal Dynamical Systems Modeling in One Model
+
+Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data
+
 **Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks**. Kesen Zhao(), Liang Zhang. ICLR 2024. [paper](https://openreview.net/forum?id=AJBkfwXh3u)
 
 ## 2023
+
+ClimateSet: A Large-Scale Climate Model Dataset for Machine Learning
+
+SpatialRank: Urban Event Ranking with NDCG Optimization on Spatiotemporal Data
+
+DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting
+
+UUKG: Unified Urban Knowledge Graph Dataset for Urban Spatiotemporal Prediction
+
+Improving day-ahead Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context
+
+ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation
+
+SubseasonalClimateUSA: A Dataset for Subseasonal Forecasting and Benchmarking
+
+PreDiff: Precipitation Nowcasting with Latent Diffusion Models
+
+Automatic Integration for Spatiotemporal Neural Point Processes
+
+Towards Fair Financial Services for All: A Temporal GNN Approach for Individual Fairness on Transaction Networks
+
+DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions
+
+HST-GT:Heterogeneous Spatial-Temporal Graph Transformer for Delivery Time Estimation in Warehouse-Distribution Integration E-Commerce
+
+Fragment and Integrate Network (FIN): A Novel Spatial-Temporal Modeling Based on Long Sequential Behavior for Online Food Ordering Click-Through Rate Prediction
+
+STREAMS: Towards Spatio-Temporal Causal Discovery with Reinforcement Learning for Streamflow Rate Prediction
+
+Enhancing Dynamic On-demand Food Order Dispatching through Future-informed and Spatial-temporal Extended Decisions
 
 **BSTT: A Bayesian Spatial-Temporal Transformer for Sleep Staging**. Yuchen Liu(CAS), Ziyu Jia. ICLR 2023. [paper](https://openreview.net/forum?id=ZxdkjTgK_Dl)
 
@@ -66,7 +110,7 @@
 
 **Extreme-Aware Local-Global Attention for Spatio-Temporal Urban Mobility Learning**. Huiqun Huang(University of Connecticut), Suining He, Mahan Tabatabaie. ICDE 2023. [paper](https://ieeexplore.ieee.org/document/10184645/) [code](https://github.com/HuiqunHuang/EALGAP)
 
-**PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation**. Mingzhe Liu(BUAA), Han Huang, Hao Feng, Leilei Sun, Bowen Du, Yanjie Fu. ICDE 2023. [paper](https://arxiv.org/abs/2302.09746) [code](https://github.com/LMZZML/PriSTI)
+**PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation**. Mingzhe Liu(BUAA), Han Huang, Hao Feng, Leilei Sun, Bowen Du, Yanjie Fu. ICDE 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10184808) [code](https://github.com/LMZZML/PriSTI)
 
 **REDE: Exploring Relay Transportation for Efficient Last-mile Delivery**. Wenjun Lyu(JD Logistics), Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang. ICDE 2023. [paper](https://ieeexplore.ieee.org/document/10184811/)
 
