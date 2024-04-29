@@ -12,6 +12,10 @@
 
 ## 2023
 
+Data-Driven Modeling of Urban Traffic Travel Times for Short- and Long-Term Forecasting
+
+When Will We Arrive? A Novel Multi-Task Spatio-Temporal Attention Network Based on Individual Preference for Estimating Travel Time
+
 ### Conference
 
 **Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi**. Hao Liu(HKUST), Wenzhao Jiang, Shui Liu, Xi Chen. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599925)

@@ -184,6 +184,8 @@ Enhancing Dynamic On-demand Food Order Dispatching through Future-informed and S
 
 **CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting**. Lijing Wang(University of Virginia), Aniruddha Adiga, Jiangzhuo Chen, Adam Sadilek, Srinivasan Venkatramanan, Madhav Marathe. AAAI 2022. [paper](https://aaai-2022.virtualchair.net/poster_aisi6475)
 
+**Mitigating Low Agricultural Productivity of Smallholder Farms in Africa: Time-Series Forecasting for Environmental Stressors**. Maryam Tabar(The Pennsylvania State University), Dongwon Lee, David P. Hughes, Amulya Yadav. AAAI 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/21534) [code](https://github.com/maryam-tabar/CLIMATES)
+
 **Conditional Local Convolution for Spatio-temporal Meteorological Forecasting**. Haitao Lin(Westlake), Zhangyang Gao, Yongjie Xu, Lirong Wu, Ling Li, Stan. Z. Li. AAAI 2022. [paper](https://arxiv.org/abs/2101.01000) [code](https://github.com/BIRD-TAO/CLCRN)
 
 > Meteorological Forecasting

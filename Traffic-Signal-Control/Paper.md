@@ -6,7 +6,39 @@
 
 Prompt to transfer: Sim-to-real Transfer for Traffic Signal Control with Prompt Learning
 
+Temporal Difference-Aware Graph Convolutional Reinforcement Learning for Multi-Intersection Traffic Signal Control
+
 ## 2023
+
+Optimizing Traffic Control with Model-Based Learning: A Pessimistic Approach to Data-Efficient Policy Inference
+
+Reinforcement Learning Approaches for Traffic Signal Control under Missing Data
+
+InitLight: Initial Model Generation for Traffic Signal Control Using Adversarial Inverse Reinforcement Learning
+
+GPLight: Grouped Multi-agent Reinforcement Learning for Large-scale Traffic Signal Control
+
+MetaVIM: Meta Variationally Intrinsic Motivated Reinforcement Learning for Decentralized Traffic Signal Control
+
+Urban Traffic Light Control via Active Multi-Agent Communication and Supply-Demand Modeling
+
+Adversarial Attacks on Deep Reinforcement Learning-based Traffic Signal Control Systems with Colluding Vehicles
+
+Adaptive Traffic Light Control With Deep Reinforcement Learning: An Evaluation of Traffic Flow and Energy Consumption
+
+CoTV: Cooperative Control for Traffic Light Signals and Connected Autonomous Vehicles Using Deep Reinforcement Learning
+
+Coupling Control of Traffic Signal and Entry Lane at Isolated Intersections Under the Mixed-Autonomy Traffic Environment
+
+Distributed Stochastic MPC Traffic Signal Control for Urban Networks
+
+Mastering Arterial Traffic Signal Control With Multi-Agent Attention-Based Soft Actor-Critic Model
+
+Robustness Analysis of Discrete State-Based Reinforcement Learning Models in Traffic Signal Control
+
+Network-Wide Traffic Signal Control Using Bilinear System Modeling and Adaptive Optimization
+
+Optimal Traffic Signal Control of Isolated Oversaturated Intersections Using Predicted Demand
 
 ### Conference
 

@@ -50,6 +50,8 @@
 
 ### 2024
 
+Spatio-Temporal Trajectory Similarity Measures: A Comprehensive Survey and Quantitative Study
+
 **KGTS: Contrastive Trajectory Similarity Learning over Prompt Knowledge Graph Embedding**. Zhen Chen(UESTC), Dalin Zhang, Shanshan Feng, Kaixuan Chen, Lisi Chen, Peng Han, Shuo Shang. AAAI 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28672)
 
 ### 2023
@@ -452,7 +454,7 @@
 
 ### 2023
 
-**DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model**. Yuanshao Zhu(Southern University of Science and Technology), Yongchao Ye, Shiyao Zhang, Xiangyu Zhao, James Yu. NeurIPS 2023. [paper](https://openreview.net/forum?id=ykMdzevPkJ)
+**DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model**. Yuanshao Zhu(Southern University of Science and Technology), Yongchao Ye, Shiyao Zhang, Xiangyu Zhao, James Yu. NeurIPS 2023. [paper](https://openreview.net/forum?id=ykMdzevPkJ) [code](https://github.com/Yasoz/DiffTraj)
 
 **Practical Synthetic Human Trajectories Generation Based on Variational Point Processes**. Qingyue Long(THU), Huandong Wang, Tong Li, Lisi Huang, Kun Wang, Qiong Wu, Guangyu Li, Yanping Liang, Li Yu, Yong Li. KDD 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599888)
 
@@ -483,6 +485,8 @@
 **Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation**. Tianhao Huang(Nankai University), Xuan Pan, Xiangrui Cai, Ying Zhang, Xiaojie Yuan. AAAI 2024. [paper]() [code](https://github.com/Skyyyy0920/MTNet)
 
 ### 2023
+
+Zone-Enhanced Spatio-Temporal Representation Learning for Urban POI Recommendation
 
 **Next POI Recommendation with Dynamic Graph and Explicit Dependency**. Feiyu Yin(UESTC), Yong Liu, Zhiqi Shen, Lisi Chen, Shuo Shang, Peng Han. AAAI 2023. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25608)
 
