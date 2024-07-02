@@ -103,8 +103,6 @@
 
 > Method: reconstructs the binary adjacency matrix via **tensor decomposition**
 
-**Observer-Informed Deep Learning for Traffic State Estimation With Boundary Sensing**. Chenguang Zhao(HKUST), Huan Yu. TITS 2024. [paper](https://ieeexplore.ieee.org/document/10273189)
-
 **GMHANN: A Novel Traffic Flow Prediction Method for Transportation Management Based on Spatial-Temporal Graph Modeling**. Qing Wang(Fujian Normal University), Weiping Liu, Xiumei Wang, Xinghong Chen, Guannan Chen, Qingxiang Wu. TITS 2024. [paper](https://ieeexplore.ieee.org/document/10234657)
 
 > Motivation: consider **the constraint of road networks**; the **long-term** prediction of traffic flow
@@ -113,9 +111,11 @@
 
 **Digital Twin for Transportation Big Data: A Reinforcement Learning-Based Network Traffic Prediction Approach**. Laisen Nie(Northwestern Polytechnical University), Xiaojie Wang, Qinglin Zhao, Zhigang Shang, Li Feng, Guojun Li. TITS 2024. [paper](https://ieeexplore.ieee.org/document/10021249)
 
+**Observer-Informed Deep Learning for Traffic State Estimation With Boundary Sensing**. Chenguang Zhao(HKUST), Huan Yu. TITS 2024. [paper](https://ieeexplore.ieee.org/document/10273189)
+
 ### Preprint
 
-**Explainable Traffic Flow Prediction with Large Language Models**. Xusen Guo(HKUST), Qiming Zhang, Junyue Jiang, Mingxing Peng, Meixin Zhu, Hao (Frank)Yang. arXiv 2024. [paper](https://arxiv.org/abs/2404.02937)
+**Towards Responsible and Reliable Traffic Flow Prediction with Large Language Models**. Xusen Guo(HKUST), Qiming Zhang, Junyue Jiang, Mingxing Peng, Meixin Zhu, Hao (Frank) Yang. arXiv 2024. [paper](https://arxiv.org/abs/2404.02937)
 
 **UrbanGPT: Spatio-Temporal Large Language Models**. Zhonghang Li(South China University of Technology), Lianghao Xia, Jiabin Tang, Yong Xu, Lei Shi, Long Xia, Dawei Yin, Chao Huang. arXiv 2024. [paper](https://arxiv.org/abs/2403.00813)
 
@@ -361,8 +361,6 @@
 
 **Spatial-Temporal Graph Boosting Networks: Enhancing Spatial-Temporal Graph Neural Networks via Gradient Boosting**. Yujie Fan(Visa Research), Chin-Chia Michael Yeh, Huiyuan Chen, Yan Zheng, Liang Wang, Junpeng Wang, Xin Dai, Zhongfang Zhuang, Wei Zhang. CIKM 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615066)
 
-> 
-
 **Mask- and Contrast-Enhanced Spatio-Temporal Learning for Urban Flow Prediction**. Xu Zhang(Qilu University of Technology), Yongshun Gong, Xinxin Zhang, Xiaoming Wu, Chengqi Zhang, Xiangjun Dong. CIKM 2023. [paper](https://dl.acm.org/doi/10.1145/3583780.3614958) [code](https://github.com/CodeZx6/MCSTL)
 
 **Region Profile Enhanced Urban Spatio-Temporal Prediction via Adaptive Meta-Learning**. Jie Chen(Shanghai University), Tong Liu, Ruiyuan Li. CIKM 2023. [paper](https://dl.acm.org/doi/10.1145/3583780.3615027)
@@ -533,7 +531,7 @@
 
 ### Conference
 
-**Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models**. Fan Liu(HKUST), Hao Liu, Wenzhao Jiang. NIPS 2022. [paper](https://openreview.net/forum?id=lTKXh991Ayv)
+**Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models**. Fan Liu(HKUST), Hao Liu, Wenzhao Jiang. NIPS 2022. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/79081c95482707d2db390542614e29cd-Abstract-Conference.html)
 
 **AZ-whiteness test: a test for signal uncorrelation on spatio-temporal graphs**. Daniele Zambon(Università della Svizzera italiana), Cesare Alippi. NIPS 2022. [paper](https://papers.nips.cc/paper_files/paper/2022/hash/4e9fa6e716940a7cfc60c46e6f702f52-Abstract-Conference.html)
 
@@ -646,7 +644,7 @@ Bosch GmbH), Lukas Oldenburg, Ingo Steinwart, David Reeb. ICML 2022. [paper](pro
 
 **STrans-GAN: Spatially-Transferable Generative Adversarial Networks for Urban Traffic Estimation**. Yingxue Zhang(Binghamton University), Yanhua Li, Xun Zhou, Xiangnan Kong, Jun Luo. ICDM 2022. [paper](https://ieeexplore.ieee.org/document/10027643)
 
-**Exploiting Hierarchical Correlations for Cross-City Cross-Mode Traffic Flow Prediction**. Yan Chen(NUAA), Jingjing Gu, Fuzhen Zhuang, Xinjiang Lu, Ming Sun. ICDM 2022. [paper](https://ieeexplore.ieee.org/document/10027729)
+**Exploiting Hierarchical Correlations for Cross-City Cross-Mode Traffic Flow Prediction**. Yan Chen(NUAA), Jingjing Gu, Fuzhen Zhuang, Xinjiang Lu, Ming Sun. ICDM 2022. [paper](https://ieeexplore.ieee.org/document/10027729) [code](https://github.com/chenyan89/CCMHC)
 
 **ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction**. Liang Zhao(Chongqing University), Min Gao, Zongwei Wang. WSDM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) [code](https://github.com/k51/STGSP)
 
